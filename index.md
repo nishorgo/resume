@@ -57,5 +57,5 @@ GPA: **5.00** (out of **5.00**)
 ---
 ## SKILLS  
 ---
-* **Languages:** Python, C, SQL
+* **Languages:** Python, C, Java, SQL
 * **Tools** &#124; **Technologies:**  Django, Django REST Framework, Plotly, Numpy, Pandas, Bootstrap, TailwindCSS, Git

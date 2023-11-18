@@ -4,60 +4,58 @@ title: Resume
 ---
 
 ---
-## EXPERIENCE
+## PROJECTS
 ---
+ 
+### [GameDB](https://github.com/nishorgo/GameDB)
+* Developed a Django-based API for a game catalog, inspired by IMDB, providing a backend solution for efficient management and retrieval of game information.
+* Implemented RESTful endpoints for seamless interactions with the database, encompassing functionalities such as adding, editing, and deleting game entries, along with user reviews and wishlists.
+* Leveraged Celery for scheduling the generation of trending games and Redis for caching, enhancing the API's performance and responsiveness.
 
-### Lorem Ipsum  
-***Lorem Ipsum (Jan 2017 - Present)*** &middot;	***Full-time***   
+### [Chatty Snakes and Ladders](https://github.com/nishorgo/ChattySnakeLadders)
+* Developed a multiplayer Snake and Ladder game using Python, utilizing socket programming to establish real-time communication between players.
+* Implemented a sophisticated client-server model for data transmission, ensuring efficient communication between the players.
+* Utilized JSON encoding and decoding to manage both chat messages and game data including player position, and board states over the network.
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna. 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
+### [CoronaDash](https://github.com/nishorgo/CoronaDash)
+* Developed a user-friendly COVID-19 dashboard using Django, providing real-time pandemic data for informed decision-making.
+* Implemented data visualization using Plotly in the dashboard, incorporating features such as sorting, filtering, interactive bar charts, map charts, and other customizable elements for comprehensive analysis.
+* Integrated a machine learning model for symptom-based COVID-19 prediction, contributing to early case identification and robust report generation.
 
-### BRAC University     
-***Undergraduate Teaching Assistant (Jun 2015 – Aug 2016)*** &middot;	***Part-time***  
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna. 
+### [Journeyize](https://github.com/nishorgo/Journeyize)
+* Developed a Django-based website for travel itineraries, integrating GPT-3.5 API to dynamically generate personalized travel plans based on weather conditions.
+* Utilized Google Maps API to enhance the user experience, allowing users to find locations seamlessly.
+* Incorporated a weather API to provide real-time weather updates for chosen destinations.
 
 <br />
 
 ---
 ## EDUCATION
 ---
-### BRAC University  
-*Bachelor of Science in Computer Science (Jan 2013 - Aug 2017)*  
-CGPA: **3.71** (out of **4.00**) 
+### Sylhet Engineering College (Shahjalal University of Science and Technology)  
+*Bachelor of Science in Computer Science (Feb 2018 - Feb 2023)*  
+CGPA: **3.36** (out of **4.00**) 
 
-### Oxford International School
-*GCE A Level*  
-Result: **4 As** and **1 B**
+### Government Science College
+*Higher Secondary Certificate*  
+GPA: **5.00** (out of **5.00**)
 
-*GCE O Level*  
-Result: **4 A*s**, **3 As** and **2 Bs**
+### Noakhali Zilla School
+*Secondary School Certificate*  
+GPA: **5.00** (out of **5.00**)
 
-<br />
-
----
-## HONORS & ACHIEVEMENTS
----
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna. 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
 
 <br />
 
 ---
-## PROJECT
+## CONTESTS
 ---
-* **[Test Automation Boilerplate](https://github.com/Tahanima/test-automation-boilerplate):** Ready to use UI Test Automation Architecture  
-**Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git 
+* **Dhaka Regional Finalist** for the International Collegiate Programming Contest 2018
 
 <br />
   
 ---
 ## SKILLS  
 ---
-* **Languages:** Java, C++, Ruby, SQL
-* **Tools** &#124; **Technologies:** Selenium WebDriver, Gradle, TestNG, Jekyll, Git, JIRA
+* **Languages:** Python, C, SQL
+* **Tools** &#124; **Technologies:**  Django, Django REST Framework, Plotly, Numpy, Pandas, Bootstrap, TailwindCSS, Git

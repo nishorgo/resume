@@ -86,5 +86,4 @@ GPA: **5.00** (out of **5.00**)
 * Crafted more than 50 informative feature articles that explore science, technology, and cultures around the world.
 * Demonstrated a deep understanding of science and technology concepts and the ability to translate complex information into compelling narratives.
 
----
 

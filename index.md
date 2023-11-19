@@ -78,7 +78,7 @@ GPA: **5.00** (out of **5.00**)
 <br />
 
 ---
-## SIDE ACTIVITIES
+## EXTRACURRICULAR ACTIVITIES
 ---
 
 ### Feature Writer

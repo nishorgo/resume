@@ -5,7 +5,7 @@ title: Resume
 
 ---
 ## PROJECTS
-
+---
  
 ### [GameDB](https://github.com/nishorgo/GameDB)
 * Developed a Django-based API for a game catalog, inspired by IMDB, providing a backend solution for efficient management and retrieval of game information.
@@ -31,21 +31,24 @@ title: Resume
 
 ---
 ## CONTEST
+---
 
 * **Dhaka Regional Finalist** for the International Collegiate Programming Contest 2018
 
 <br />
 
 ---
-## SKILLS  
+## SKILLS
+---
 
 * **Languages:** Python, C, Java, SQL
 * **Tools** &#124; **Technologies:**  Django, Django REST Framework, Plotly, Numpy, Pandas, Scikit-learn, Bootstrap, TailwindCSS, Git
 
 <br />
 
-
+---
 ## EDUCATION
+---
 
 ### Sylhet Engineering College (Shahjalal University of Science and Technology)  
 *Bachelor of Science in Computer Science (Feb 2018 - Feb 2023)*  
@@ -64,6 +67,7 @@ GPA: **5.00** (out of **5.00**)
 
 ---
 ## THESIS
+---
 
 ### Automatic Bangla Image Captioning using Transformer Network
 * A CNN-Transformer model to generate captions for the BanglaLekhaImageCaptions dataset.
@@ -75,6 +79,7 @@ GPA: **5.00** (out of **5.00**)
 
 ---
 ## SIDE ACTIVITIES
+---
 
 ### Feature Writer
 ***Roar Bangla (April 2019 - February 2022)***
